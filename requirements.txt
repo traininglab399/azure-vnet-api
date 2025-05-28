@@ -1,0 +1,13 @@
+```
+fastapi
+uvicorn
+python-dotenv
+pydantic
+azure-identity
+azure-mgmt-network
+passlib[bcrypt]
+python-jose[cryptography]
+jinja2
+```
+
+---
