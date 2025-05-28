@@ -1,0 +1,18 @@
+```json
+[]
+```
+(Add entries line by line as plain JSON objects)
+
+---
+
+### `.gitignore`
+```
+__pycache__/
+.env
+*.tfstate*
+.terraform/
+db/*.json
+terraform/main.tf
+```
+
+---
